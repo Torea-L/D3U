@@ -9,7 +9,7 @@ model_id_name=ECL
 data_name='custom'
 
 random_seed=2021
-python -u ../../../runner9_NS_transformer.py \
+python -u ../../../runner.py \
         --seed $random_seed \
         --root_path $root_path_name \
         --data_path $data_path_name \
