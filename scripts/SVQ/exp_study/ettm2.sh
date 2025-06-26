@@ -8,7 +8,7 @@ model_id_name=ETTm2
 data_name=ETTm2
 
 random_seed=2021
-python -u ../../../runner9_NS_transformer.py \
+python -u ../../../runner.py \
         --is_training \
         --seed $random_seed \
         --root_path $root_path_name \
