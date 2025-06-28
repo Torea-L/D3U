@@ -2,7 +2,7 @@ import argparse
 import torch
 import numpy as np
 import random
-from model9_NS_transformer.exp.exp_long_term_forecasting_point import Exp_Long_Term_Forecast
+from models.exp.exp_long_term_forecasting_point import Exp_Long_Term_Forecast
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
