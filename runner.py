@@ -1,6 +1,6 @@
 import argparse
 import torch
-from model9_NS_transformer.exp.exp_main import Exp_Main
+from models.exp.exp_main import Exp_Main
 import random
 import numpy as np
 import setproctitle
