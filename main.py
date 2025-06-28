@@ -3,7 +3,7 @@ import random
 import numpy as np
 import setproctitle
 import torch
-from model9_NS_transformer.exp.exp_main import Exp_Main
+from models.exp.exp_main import Exp_Main
 from utils import params_init
 
 if __name__ == '__main__':
