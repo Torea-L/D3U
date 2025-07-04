@@ -1,6 +1,6 @@
 # D^3U
-The official implementation for the paper: [Diffusion-based-Decoupled-Deterministic-and-Uncertain-Framework-for-Probabilistic-MTS-Forecasting](https://openreview.net/forum?id=HdUkF1Qk7g)
-The repo is the official implementation for the paper: Diffusion-based-Decoupled-Deterministic-and-Uncertain-Framework-for-Probabilistic-MTS-Forecasting. 
+The repo is the official implementation for the paper: [Diffusion-based Decoupled Deterministic and Uncertain Framework for Probabilistic MTS Forecasting](https://openreview.net/forum?id=HdUkF1Qk7g)
+
 ## Overall Architecture
 ![Logo](./figure/D3U.png)
 ## Usage
