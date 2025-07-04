@@ -18,6 +18,9 @@ bash ./scripts/SVQ/exp_study/
   </button>
 </div>
 
+Place the checkpoint of the already trained point prediction model into this folder.
+For example, path: pretrain_checkpoints/SVQ/all/weather/192/checkpoint.pth
+
 The datasets can be obtained from [Google Drive](https://drive.google.com/file/d/1l51QsKvQPcqILT3DwfjCgx8Dsg2rpjot/view?usp=drive_link) or [Baidu Cloud](https://pan.baidu.com/s/11AWXg1Z6UwjHzmto4hesAA?pwd=9qjr).
 
 ## Contact
@@ -37,6 +40,3 @@ If you find this repo helpful, please cite our paper.
   booktitle={The Thirteenth International Conference on Learning Representations},
   year={2025}
 }
-
-Place the checkpoint of the already trained point prediction model into this folder.
-path: pretrain_checkpoints/SVQ/all/weather/192/checkpoint.pth
