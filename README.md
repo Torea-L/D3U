@@ -31,10 +31,11 @@ If you have any questions or want to use the code, feel free to contact:
 If you find this repo helpful, please cite our paper.
 
 ```markdown
-@inproceedings{lidiffusion,
-  title={Diffusion-based Decoupled Deterministic and Uncertain Framework for Probabilistic Multivariate Time Series Forecasting},
+@inproceedings{li2025diffusion,
+  title={Diffusion-based decoupled deterministic and uncertain framework for probabilistic multivariate time series forecasting},
   author={Li, Qi and Zhang, Zhenyu and Yao, Lei and Li, Zhaoxia and Zhong, Tianyi and Zhang, Yong},
-  booktitle={The Thirteenth International Conference on Learning Representations}
+  booktitle={The Thirteenth International Conference on Learning Representations},
+  year={2025}
 }
 
 Place the checkpoint of the already trained point prediction model into this folder.
