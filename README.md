@@ -1,4 +1,5 @@
-# Diffusion-based-Decoupled-Deterministic-and-Uncertain-Framework-for-Probabilistic-MTS-Forecasting
+# D^3U
+The official implementation for the paper: [Diffusion-based-Decoupled-Deterministic-and-Uncertain-Framework-for-Probabilistic-MTS-Forecasting](https://openreview.net/forum?id=HdUkF1Qk7g)
 The repo is the official implementation for the paper: Diffusion-based-Decoupled-Deterministic-and-Uncertain-Framework-for-Probabilistic-MTS-Forecasting. 
 ## Overall Architecture
 ![Logo](./figure/D3U.png)
@@ -16,6 +17,8 @@ bash ./scripts/SVQ/exp_study/
     📋
   </button>
 </div>
+
+The datasets can be obtained from [Google Drive](https://drive.google.com/file/d/1l51QsKvQPcqILT3DwfjCgx8Dsg2rpjot/view?usp=drive_link) or [Baidu Cloud](https://pan.baidu.com/s/11AWXg1Z6UwjHzmto4hesAA?pwd=9qjr).
 
 ## Contact
 If you have any questions or want to use the code, feel free to contact:
